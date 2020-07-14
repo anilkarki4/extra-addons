@@ -1,0 +1,23 @@
+div.product-screen div.rightpane div.searchbox{
+    width: 100%;
+}
+
+div.product-screen div.rightpane div.searchbox input{
+    width: 90% !important;
+}
+
+table.shortcut-tips-table{
+    width: 100%;
+}
+
+table.shortcut-tips-table th{
+    background-color: #cfcfcf;
+}
+
+table.shortcut-tips-table th,td{
+    height: 30px;
+    text-align: left;
+    padding: 6px 12px;
+    border-bottom: 1px solid #dddddd;
+}
+
